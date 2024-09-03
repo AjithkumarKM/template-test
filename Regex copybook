@@ -1,0 +1,1 @@
+/^\s*(\d+)\s+(['\w-]+)((?:\s+OCCURS\s+\d+(?:\s+TO\s+\d+)?(?:\s+TIMES)?)|(?:\s+REDEFINES\s+[^\s]+))?(\s+PIC\s+[\w\+\(\)\d\.]+)?(\s+DEPENDING\s+ON\s+[^\s]+(?:\s+IN\s+[^\s]+)?)?\s*\.\s*$/i
